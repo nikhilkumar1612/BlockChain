@@ -1,0 +1,7 @@
+body {
+    background-image: url("goutham2.jpeg");
+}
+
+h1, h3, p, th, td, Form.label{
+    color: white;
+}
